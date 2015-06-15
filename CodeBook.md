@@ -109,8 +109,8 @@ All the other variables (ID 3 to 68) are the average of each original variable (
 *	ID	Name	Original
 *	1	subject	N/A
 *	2	activity	N/A
-*	3	t.body.acc.mean.x	tBodyAcc-mean(x)
-*	4	t.body.acc.mean.y	tBodyAcc-mean(y)
+*	3	t.body.acc.mean.x	| tBodyAcc-mean(x)
+*	4	t.body.acc.mean.y	| tBodyAcc-mean(y)
 *	5	t.body.acc.mean.z	tBodyAcc-mean(z)
 *	6	t.body.acc.std.x	tBodyAcc-std(x)
 *	7	t.body.acc.std.y	tBodyAcc-std(y)
